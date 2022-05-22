@@ -1,0 +1,4 @@
+%{
+  "complex": {:hex, :complex, "0.4.0", "c4e0402efb587011cdbd73b3f188ec5a3dbd4d516530bedfb041b6d58ea0baea", [:mix], [], "hexpm", "ba7b7547a647dfc907cf0c50c906d16dd1ae879f7ec0d61786962c9cb41f793a"},
+  "nx": {:hex, :nx, "0.2.0", "ae550cd72bca2e56f90fc63d59f2f11ac17ed3c4a9cd0968397f4ef9b795b3d6", [:mix], [{:complex, "~> 0.4.0", [hex: :complex, repo: "hexpm", optional: false]}], "hexpm", "31d4936d2cf78a0b147830f0e6fca45bd3ed4b1e592e2bcd61a85f81e892617c"},
+}
